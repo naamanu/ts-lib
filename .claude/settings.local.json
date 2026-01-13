@@ -4,7 +4,10 @@
       "Bash(npm install)",
       "Bash(gh auth:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run docs:*)"
     ]
   }
 }
